@@ -1,0 +1,24 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.bg {
+  background-image: linear-gradient(#d3e0ea, #276678);
+  height: 100vh;
+}
+.bg-transparent {
+  background-color: #ffffff6c !important;
+}
+.img-bg {
+  background-color: #1687a7;
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+}
+.btn-main {
+  background-color: #1687a7;
+  color: #fff;
+}
+.btn-main:hover {
+  background-color: #106d86;
+  color: #fff !important;
+}
